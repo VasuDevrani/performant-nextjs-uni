@@ -16,3 +16,6 @@ cd performant-nextjs-uni
 npm i
 npm run dev
 ```
+
+![image](https://github.com/user-attachments/assets/360f75e8-d0c9-4947-932b-c3beb7250a32)
+
